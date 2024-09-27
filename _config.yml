@@ -2,10 +2,10 @@
 version: 1.3.4
 
 # Site settings 配置站点
-title: 'Wan Chun'
+title: '晚春'
 description: '个人的一个技术博客站点，主要用于记录个人在学习过程中遇到的技术问题及解决方法、技术实验，以及一些比较有趣的事情。'
 keyword: 'yaolinhui，yaolinhui的博客，nodejs，Java, 人工智能'
-url: 'https://daac8d44.wanchun-github-io.pages.dev/' # your host
+url: 'https://main.wanchun-github-io.pages.dev/' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
 # 在服务器上建站时，如果你不需要子域名，请将这一格留空
@@ -24,8 +24,8 @@ default_lang: "zh-Hans"
 # Github
 github:
   enabled: true
-  owner: zhonger
-  repository: jekyll-theme-H2O-ac
+  owner: yaolinhui
+  repository: wanchun.github.io
 
 # PWA
 pwa:
@@ -121,7 +121,7 @@ badges:
 
 # Alive time
 alivetime: true
-alivestart: "12/23/2021"
+alivestart: "9/27/2024"
 
 # Beian 备案号
 beian: '沪ICP备xxxxxxxx号'
