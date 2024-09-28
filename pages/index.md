@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: 欢迎来到晚春的编码理想国，本博客站点主要用于记录个人在学习过程中遇到的问题及解决思路、个人的一些技术理解，不定时地会分享一些比较有趣的事情。
-description: Writing, writing, writing ...
+home-title: 欢迎来到晚春的编码理想国
+description: 本博客站点主要用于记录个人在学习过程中遇到的问题及解决思路、个人的一些技术理解，不定时地会分享一些比较有趣的事情。
 permalink: /index.html
 langs: ["zh-Hans", "en"]
 lang: "zh-Hans"
