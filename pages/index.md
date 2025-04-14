@@ -1,7 +1,7 @@
 ---
 layout: page
-home-title: H2O-ac Theme For Jekyll
-description: 基于可能是最好看的 Jekyll 主题 H2O 的学术版主题
+home-title: 欢迎来到晚春的编码理想国
+description: 本博客站点主要用于记录个人在学习过程中遇到的问题及解决思路、个人的一些技术理解，不定时地会分享一些比较有趣的事情。
 permalink: /index.html
 langs: ["zh-Hans", "en"]
 lang: "zh-Hans"
@@ -10,28 +10,17 @@ lang: "zh-Hans"
 # 自我介绍
 
 ## 关于我
+&emsp;&emsp;我是姚林辉，目前在河南的一个小县城里从事医疗方面的工作，空闲之余写一些代码。
 
-&emsp;&emsp;我是一名来自xx大学的博士生。。。。。。
+## 兴趣研究
+&emsp;&emsp;Java、SQL、Python
 
-## 论文发表
+## 教育经历
 
-1. 论文1 [[DOI]](https://doi.org)
-2. 论文2 [[DOI]](https://doi.org)
-3. 论文2 [[DOI]](https://doi.org)
-4. 论文2 [[DOI]](https://doi.org)
-5. 论文2 [[DOI]](https://doi.org)
-6. 论文2 [[DOI]](https://doi.org)
-7. 论文2 [[DOI]](https://doi.org)
-8. 论文2 [[DOI]](https://doi.org)
-9. 论文2 [[DOI]](https://doi.org)
-10. 论文2 [[DOI]](https://doi.org)
-11. 论文2 [[DOI]](https://doi.org)
-12. 论文2 [[DOI]](https://doi.org)
-13. 论文2 [[DOI]](https://doi.org)
-
-- 无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1无序列表1
-- 无序列表2
+- 新乡学院，软件工程，工学学士（2021年9月-2023年6月）
+- 新乡职业技术学院，计算机技术（2018年9月-2021年6月）
+- 平舆第二高级中学（2015年9月-2018年6月）
 
 ## 联系我
 
-邮箱：zhonger[at]live.cn (请使用@替换[at])
+邮箱：1582216546@qq.com (请使用@替换[at])
